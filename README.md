@@ -14,7 +14,24 @@ A lightweight and efficient Python-based Port Scanner tool designed for ethical 
 - ✅ NetBIOS name resolution
 - ✅ Optional banner grabbing for services
 
+- ## 🛠 Built With
+
+- Python 3  
+- `socket`, `threading`, `ipaddress`  
+- `tkinter` (for GUI)  
+- `csv` (for export)  
+- `ttk.Treeview` (for result display)  
+
 ---
+
+## 🧠 Use Cases
+
+- 🔐 Penetration Testing  
+- 🌐 Network Security Audits  
+- 🎓 Cybersecurity Learning Projects  
+- 🧑‍💻 Ethical Hacking Practice  
+
+
 
 ## ▶️ How to Run
 
@@ -23,21 +40,10 @@ A lightweight and efficient Python-based Port Scanner tool designed for ethical 
 git clone https://github.com/MUKILESH7/port-scanner.git
 cd port-scanner
 
-2. Run the tool
-``` bash
+### 2. Run the tool
+```bash
 python port_scanner.py
 
- Built With
-Python 3
-socket, threading, ipaddress
-tkinter (for GUI)
-csv (for export)
-ttk.Treeview (for result display)
 
- Use Cases
 
-Penetration Testing
-Network Security Audits
-Cybersecurity Learning Projects
-Ethical Hacking Practice
 
